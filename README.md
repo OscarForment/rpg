@@ -1,3 +1,2 @@
-# rpg
-Juego RPG del curso de Python
-test
+# RPG
+Juego RPG del curso de Python de Udemy
