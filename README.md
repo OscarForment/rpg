@@ -1,2 +1,2 @@
 # RPG
-Juego RPG del curso de Python de Udemy
+Juego RPG incompleto del curso de Python de Udemy
